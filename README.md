@@ -36,7 +36,7 @@
 <h2>Installation</h2>
 <ol>
     <li>Ensure you have Node.js installed on your machine.</li>
-    <li>Clone the repository: <code>git clone &lt;repository-url&gt;</code>.</li>
+    <li>Clone the repository: <code>git clone &lt;https://github.com/ContagionIsMe/Mobile-Friendly-React-ToDo-List&gt;</code>.</li>
     <li>Navigate to the project directory and install dependencies: <code>npm install</code>.</li>
     <li>Start the development server: <code>npm start</code>.</li>
     <li>Open your browser and visit <code>http://localhost:3000</code> to view the application.</li>

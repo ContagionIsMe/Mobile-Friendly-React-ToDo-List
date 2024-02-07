@@ -11,14 +11,6 @@
     <li><strong>Mobile Responsive:</strong> The application is designed to be responsive and optimized for mobile devices, providing a seamless user experience on various screen sizes.</li>
 </ul>
 
-<h2>Usage</h2>
-<ol>
-    <li>Clone the repository to your local machine.</li>
-    <li>Install dependencies using <code>npm install</code>.</li>
-    <li>Run the application using <code>npm start</code>.</li>
-    <li>Access the todo list in your browser at <code>http://localhost:3000</code>.</li>
-</ol>
-
 <h2>Components</h2>
 <ul>
     <li><strong>TodoList.jsx:</strong> This component renders the main to-do list, including the input form and list of to-do items. It handles the logic for adding, removing, and toggling todo items.</li>
@@ -36,7 +28,7 @@
 <h2>Installation</h2>
 <ol>
     <li>Ensure you have Node.js installed on your machine.</li>
-    <li>Clone the repository: <code>git clone &lt;https://github.com/ContagionIsMe/Mobile-Friendly-React-ToDo-List&gt;</code>.</li>
+    <li>Clone the repository: <code>git clone https://github.com/ContagionIsMe/Mobile-Friendly-React-ToDo-List</code>.</li>
     <li>Navigate to the project directory and install dependencies: <code>npm install</code>.</li>
     <li>Start the development server: <code>npm start</code>.</li>
     <li>Open your browser and visit <code>http://localhost:3000</code> to view the application.</li>
